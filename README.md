@@ -27,7 +27,6 @@ A CPU scheduling simulator written in C++ that models how an operating system al
 ├── workloads/      Workload input files
 ├── test/           Unit tests
 ├── googletest/     GoogleTest framework
-├── obj/            Generated object files
 ├── Makefile        Build configuration
 └── README.md
 ```
